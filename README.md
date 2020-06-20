@@ -31,3 +31,8 @@ Quit the server with CTRL-BREAK.
 
 Langkah ke enam: 
 Buka browser dan masuk ke halaman http://127.0.0.1:8000/
+
+<p align="center">
+  <img src="https://github.com/Fesadwi11/covid-api-django-python-fesa-dwi/tree/master/static/img/ss1.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>

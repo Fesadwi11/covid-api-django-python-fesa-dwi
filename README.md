@@ -35,4 +35,5 @@ Buka browser dan masuk ke halaman http://127.0.0.1:8000/
 <p align="center">
   <img src="https://github.com/Fesadwi11/covid-api-django-python-fesa-dwi/blob/master/static/img/ss1.PNG" title="Halaman Cari">
   <img src="https://github.com/Fesadwi11/covid-api-django-python-fesa-dwi/blob/master/static/img/ss2.PNG" alt="Halaman Hasil">
+  <img src="https://github.com/Fesadwi11/covid-api-django-python-fesa-dwi/blob/master/static/img/ss3.PNG" alt="Halaman Hasil Beda Negara">
 </p>

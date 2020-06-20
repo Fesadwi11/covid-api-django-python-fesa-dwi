@@ -1,6 +1,8 @@
 # covid-api-django-python-fesa-dwi
 UAS Pemrograman Jaringan Menggunakan Framework Django - Python Fesa Dwi Cahyo
 
+<b>DEMO PROGRAM</b>: https://fesadwicahyo.herokuapp.com/
+
 Cara Running Program yaitu dengan membuka CMD atau terminal, kemudian ikuti langkah berikut:
 
 Langkah pertama:
